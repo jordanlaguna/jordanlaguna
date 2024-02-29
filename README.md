@@ -1,12 +1,12 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Jordan Laguna], un apasionado de las tecnologias de la información. En este espacio encontrarás una variedad de proyectos que reflejan mis intereses y habilidades. 
+¡Hola! Soy Jordan Laguna Rodríguez, un apasionado de las tecnologias de la información. En este espacio encontrarás una variedad de proyectos que reflejan mis intereses y habilidades. 
 
 ## Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo sobre tecnologías de información, lenguajes de programación diferentes y estoy terminando de estudiar ingeniería en sistemas.
 - 👯 Estoy buscando colaborar en proyectos interesantes.
-- 💬 Pregúntame sobre [tecnologías de información].
+- 💬 Pregúntame sobre tecnologías de información.
 - 📫 Puedes contactarme en jordanlaguna10@gmail.com.
 
 ## Proyectos destacados
@@ -25,9 +25,9 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ¡No dudes en contactarme!
 
-- Correo electrónico: jordanlaguna10@gmail.com()
-- LinkedIn: Jordan Laguna Rodríguez (https://www.linkedin.com/in/tu_nombre/)
-- Facebook: @jordanlaguna (https://facebook.com/jordanlaguna)
+- Correo electrónico: jordanlaguna10@gmail.com
+- LinkedIn: Jordan Laguna Rodríguez https://www.linkedin.com/in/tu_nombre/
+- Facebook: @jordanlaguna https://facebook.com/jordanlaguna
 
 ¡Gracias por visitar mi perfil! 😊
 

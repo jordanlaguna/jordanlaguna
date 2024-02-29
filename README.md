@@ -1,10 +1,10 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Jordan Laguna], un apasionado de [las tecnologias de la información. En este espacio encontrarás una variedad de proyectos que reflejan mis intereses y habilidades]. 
+¡Hola! Soy [Jordan Laguna], un apasionado de las tecnologias de la información. En este espacio encontrarás una variedad de proyectos que reflejan mis intereses y habilidades. 
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo sobre [tecnologías de información, lenguajes de programación diferentes y estoy terminando de estudiar ingeniería en sistemas].
+- 🌱 Actualmente estoy aprendiendo sobre tecnologías de información, lenguajes de programación diferentes y estoy terminando de estudiar ingeniería en sistemas.
 - 👯 Estoy buscando colaborar en proyectos interesantes.
 - 💬 Pregúntame sobre [tecnologías de información].
 - 📫 Puedes contactarme en jordanlaguna10@gmail.com.
@@ -13,9 +13,9 @@
 
 Aquí hay una lista de algunos de mis proyectos destacados:
 
-- [menucr] (https://github.com/jordanlaguna/menucr) - Este proyecto lo realicé para practicar diseño, es un menú que ofrece variedad y un con diseño interesante.
-- [dashboard-admin] (https://github.com/jordanlaguna/Dashboard-Admin) - Este proyecto lo hice para practicar en c#, es una copia de uno original que hice en Java.
-- [cuborubik] (https://github.com/jordanlaguna/Cubo_Rubik-main) - El juego de rubik el cual fue desarrollado con otros dos compañeros de universidad y, esta programado en Java.
+- menucr (https://github.com/jordanlaguna/menucr) - Este proyecto lo realicé para practicar diseño, es un menú que ofrece variedad y un con diseño interesante.
+- dashboard-admin (https://github.com/jordanlaguna/Dashboard-Admin) - Este proyecto lo hice para practicar en c#, es una copia de uno original que hice en Java.
+- cuborubik (https://github.com/jordanlaguna/Cubo_Rubik-main) - El juego de rubik el cual fue desarrollado con otros dos compañeros de universidad y, esta programado en Java.
 
 ## Estadísticas
 
@@ -25,9 +25,9 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ¡No dudes en contactarme!
 
-- Correo electrónico: [jordanlaguna10@gmail.com]()
-- LinkedIn: [Jordan Laguna Rodríguez](https://www.linkedin.com/in/tu_nombre/)
-- Facebook: [@jordanlaguna](https://facebook.com/jordanlaguna)
+- Correo electrónico: jordanlaguna10@gmail.com()
+- LinkedIn: Jordan Laguna Rodríguez (https://www.linkedin.com/in/tu_nombre/)
+- Facebook: @jordanlaguna (https://facebook.com/jordanlaguna)
 
 ¡Gracias por visitar mi perfil! 😊
 

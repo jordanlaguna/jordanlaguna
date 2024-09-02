@@ -13,7 +13,7 @@
 
 Aquí hay una lista de algunos de mis proyectos destacados:
 
-- menucr (https://github.com/jordanlaguna/menucr) - Este proyecto lo realicé para practicar diseño, es un menú que ofrece variedad y un con diseño interesante.
+- menucr (https://github.com/jordanlaguna/menucr) - Este proyecto lo realicé para practicar diseño, es un menú que ofrece variedad con diseño interesante.
 - dashboard-admin (https://github.com/jordanlaguna/Dashboard-Admin) - Este proyecto lo hice para practicar en c#, es una copia de uno original que hice en Java.
 - cuborubik (https://github.com/jordanlaguna/Cubo_Rubik-main) - El juego de rubik el cual fue desarrollado con otros dos compañeros de universidad y, esta programado en Java.
 
@@ -26,7 +26,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ¡No dudes en contactarme!
 
 - Correo electrónico: jordanlaguna10@gmail.com
-- LinkedIn: Jordan Laguna Rodríguez https://www.linkedin.com/in/tu_nombre/
+- LinkedIn: Jordan Laguna Rodríguez [https://www.linkedin.com/in/tu_nombre/](https://www.linkedin.com/in/jordan-laguna-rodríguez-893921274/)
 - Facebook: @jordanlaguna https://facebook.com/jordanlaguna
 
 ¡Gracias por visitar mi perfil! 😊

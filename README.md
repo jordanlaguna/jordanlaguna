@@ -39,17 +39,17 @@ PostgreSQL • MySQL
 
 🔹 DevOps / Infraestructura
 
-Linux / VPS (Ubuntu, Debian)
+- Linux / VPS (Ubuntu, Debian)
 
-Docker / Docker Compose
+- Docker / Docker Compose
 
-Nginx & Caddy (reverse proxy + SSL)
+- Nginx & Caddy (reverse proxy + SSL)
 
-Git & GitHub Actions
+- Git & GitHub Actions
 
-Monitoreo, logs, backups, automatización
+- Monitoreo, logs, backups, automatización
 
-Deploys en VPS y entornos productivos
+- Deploys en VPS y entornos productivos
 
 ## 🏗️ Experiencia destacada en DevOps y Odoo
 
@@ -71,15 +71,15 @@ Esta experiencia me permite implementar sistemas estables, seguros y escalables 
 
 ## 📚 Actualmente aprendiendo
 
-Arquitecturas limpias y escalables
+- Arquitecturas limpias y escalables
 
-Microservicios
+- Microservicios
 
-Integración CI/CD avanzada
+- Integración CI/CD avanzada
 
-Sistemas distribuidos
+- Sistemas distribuidos
 
-Optimización de APIs con caching y load balancing
+- Optimización de APIs con caching y load balancing
 
 Búsqueda semántica e integración con LLMs
 

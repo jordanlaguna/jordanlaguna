@@ -81,7 +81,6 @@ Esta experiencia me permite implementar sistemas estables, seguros y escalables 
 
 - Optimización de APIs con caching y load balancing
 
-Búsqueda semántica e integración con LLMs
 
 ## ⭐ Proyectos destacados
 

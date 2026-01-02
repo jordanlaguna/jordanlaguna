@@ -97,7 +97,7 @@ Juego del Cubo Rubik desarrollado en Java (proyecto universitario).
 https://github.com/jordanlaguna/Cubo_Rubik-main
 ## Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JordanLaguna&show_icons=true&theme=radical)](https://github.com/JordanLaguna)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JordanLaguna&show_icons=true&theme=radical&v=2)](https://github.com/JordanLaguna)
 
 ## Contacto
 
